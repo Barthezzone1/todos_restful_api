@@ -1,5 +1,5 @@
 # todos_restful_api
-- full sql database
+- full SQL database
 - authentication
 - authorization
 - hashing passwords
