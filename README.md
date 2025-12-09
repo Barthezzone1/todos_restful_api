@@ -3,3 +3,4 @@
 - authentication
 - authorization
 - hashing passwords
+- JWT
